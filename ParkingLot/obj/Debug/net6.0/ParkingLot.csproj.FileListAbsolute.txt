@@ -1,0 +1,15 @@
+C:\technovert\ParkingLot\ParkingLot\bin\Debug\net6.0\ParkingLot.exe
+C:\technovert\ParkingLot\ParkingLot\bin\Debug\net6.0\ParkingLot.deps.json
+C:\technovert\ParkingLot\ParkingLot\bin\Debug\net6.0\ParkingLot.runtimeconfig.json
+C:\technovert\ParkingLot\ParkingLot\bin\Debug\net6.0\ParkingLot.dll
+C:\technovert\ParkingLot\ParkingLot\bin\Debug\net6.0\ParkingLot.pdb
+C:\technovert\ParkingLot\ParkingLot\obj\Debug\net6.0\ParkingLot.csproj.AssemblyReference.cache
+C:\technovert\ParkingLot\ParkingLot\obj\Debug\net6.0\ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\technovert\ParkingLot\ParkingLot\obj\Debug\net6.0\ParkingLot.AssemblyInfoInputs.cache
+C:\technovert\ParkingLot\ParkingLot\obj\Debug\net6.0\ParkingLot.AssemblyInfo.cs
+C:\technovert\ParkingLot\ParkingLot\obj\Debug\net6.0\ParkingLot.csproj.CoreCompileInputs.cache
+C:\technovert\ParkingLot\ParkingLot\obj\Debug\net6.0\ParkingLot.dll
+C:\technovert\ParkingLot\ParkingLot\obj\Debug\net6.0\refint\ParkingLot.dll
+C:\technovert\ParkingLot\ParkingLot\obj\Debug\net6.0\ParkingLot.pdb
+C:\technovert\ParkingLot\ParkingLot\obj\Debug\net6.0\ParkingLot.genruntimeconfig.cache
+C:\technovert\ParkingLot\ParkingLot\obj\Debug\net6.0\ref\ParkingLot.dll
